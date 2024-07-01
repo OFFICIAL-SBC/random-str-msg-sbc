@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-sbc",
+  "version": "1.0.0",
+  "description": "Randon string messages generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sebastian Bonilla Cruz <sebastian.bonillac@udea.edu.co>",
+  "license": "MIT",
+  "bin":{
+    "random-str-msg-sbc": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
